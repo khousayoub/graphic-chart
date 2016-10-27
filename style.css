@@ -1,0 +1,25 @@
+body {
+
+}
+
+.btn{
+  padding: 10px;
+  transition: all 2s;
+}
+
+.btn:hover{
+  color: white;
+  box-shadow: 1px 1px 5px Black;
+  transform: skewX(2);
+}
+
+.neutre:hover {
+  background-color: black;
+}
+.valid:hover {
+  background-color: green;
+}
+
+.sup:hover {
+  background-color: red;
+}
